@@ -2,8 +2,8 @@
 * Git命令：
 ```
 git init
-git add README.md
+git add .
 git commit -m "first commit"
-git remote add origin https://github.com/joscodehua/springboot.git
+git remote add origin https://github.com/joscodehua/mnze.git
 git push -u origin master
 ```
